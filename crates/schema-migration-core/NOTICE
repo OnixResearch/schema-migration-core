@@ -1,0 +1,36 @@
+schema-migration-core
+Copyright (c) 2026 Onix Research
+
+Current owned-source grant
+--------------------------
+The operator authorized AGPL-3.0-or-later for current and new owned material.
+Except for separately identified third-party material or immutable historical
+source, all owned core and conformance packages, code, tests, fixtures,
+templates, contracts, schemas, configuration, policy, lifecycle material, and
+documentation in this repository are licensed under the GNU Affero General
+Public License, version 3 or (at your option) any later version. The complete
+version 3 text is in LICENSE. Cargo members inherit the workspace license.
+
+This material is distributed without any warranty; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See LICENSE.
+
+Historical grants and dependency terms
+-------------------------------------
+LICENSE-MIT preserves the original MIT text and attribution for prior grants.
+Those grants cannot be revoked by this preparation. Byte-identical content
+already covered by a prior grant remains available under that grant; the
+historical MIT text does not license new owned contributions under MIT.
+Original extraction authorization and source inventories remain historical
+facts, not a current permissive offer for new contributions.
+
+Third-party material and exact pinned dependencies retain their own license
+terms. Source/RID/revision identities in SOURCE.md and the source inventory
+remain unchanged. In particular, immutable content-identity-core and
+schema-identity-core dependency objects retain their earlier terms; a working
+tree license change does not update those pins or their bytes. Owned policy
+and fixture material is covered by the current grant without rewriting
+retained historical source identities or receipts.
+
+This preparation does not publish a revision, change any consumer dependency
+or registry, or establish release readiness. A future AGPL source adoption
+requires a separately reviewed and authorized immutable revision.

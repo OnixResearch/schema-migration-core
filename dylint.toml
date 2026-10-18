@@ -1,0 +1,8 @@
+# The official Octet deny-all hook owns severity. This project has no disabled
+# lints, warning budgets, finding baselines, or broad exceptions.
+
+[octet]
+core_source_scopes = ["crates/schema-migration-core/src/"]
+excessive_file_length_max = 720
+module_file_count_max = 16
+sealed_enum_marker = "`schema_migration_sealed`"

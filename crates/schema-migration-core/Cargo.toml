@@ -1,0 +1,16 @@
+[package]
+name = "schema-migration-core"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+repository.workspace = true
+description = "Product-neutral bounded schema migration planning core"
+
+[dependencies]
+content-identity-core.workspace = true
+schema-identity-core.workspace = true
+
+[lints]
+workspace = true
